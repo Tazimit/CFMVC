@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CMGMV.iml" filepath="$PROJECT_DIR$/.idea/CMGMV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CFMVC-gb.iml" filepath="$PROJECT_DIR$/.idea/CFMVC-gb.iml" />
     </modules>
   </component>
 </project>

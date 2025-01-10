@@ -112,7 +112,7 @@ dataset = 'BBCSport'
 
 
 if dataset == 'BBCSport':
-    # 两个视角维度：3183 3203   epods: 2200
+    # 两个视角维度：3183 3203
     x1 = scio.loadmat('data/{}.mat'.format(dataset))['X1']
     x2 = scio.loadmat('data/{}.mat'.format(dataset))['X2']
     y = scio.loadmat('data/{}.mat'.format(dataset))['gt']
